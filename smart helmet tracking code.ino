@@ -12,8 +12,8 @@ int temp = 0;
 WiFiClient wifiClient;
 #define HOST "smarthelmetcoal.000webhostapp.com"          // Enter HOST URL without "http:// "  and "/" at the end of URL
 
-#define WIFI_SSID "EVO-Charji-09EG"            // WIFI SSID here                                   
-#define WIFI_PASSWORD "a5M7P6AB"        // WIFI password here
+#define WIFI_SSID " "            // WIFI SSID here                                   
+#define WIFI_PASSWORD " "        // WIFI password here
 
 // Declare global variables which will be uploaded to server
 
